@@ -12,15 +12,3 @@ NeuroStartUp — динамически развивающийся старта�
 ![Bootstrap logo](https://sites.google.com/site/informaciontehnologii/_/rsrc/1468756530458/sajt/2-4-etapy-sozdania-veb-sajta/3.jpg
 JavaScript:
 
-<script src="https://localhost/neuro.sdk.min.js"></script>
-Java (Maven):
-
-<dependency>
-  <groupId>neuro</groupId>
-  <artifactId>sdk</artifactId>
-  <version>1.0.0</version>
-</dependency>
-iOS (добавьте код в ваш Podfile):
-
-platform :ios, '8.0'
-pod "neuro-ios-sdk"
